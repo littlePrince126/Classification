@@ -2,7 +2,7 @@
 # Training ResNet18 or AlexNet for classification
 By Linfeng
 
-[caffe]("https://github.com/BVLC/caffe") 
+[caffe](https://github.com/BVLC/caffe) 
 
 Please build caffe
 
