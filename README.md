@@ -1,7 +1,7 @@
 
 # Training ResNet18 or AlexNet for classification
 By Linfeng
-
+You need <a href="https://github.com/BVLC/caffe"</a> to get caffe.
 Please build caffe
 
 ## 1.Make Dataset for classification
@@ -25,7 +25,6 @@ cd ..
 ## 3.Get mean.binaryproto and mean.npy
 
 sudo ~/PATH-TO-CAFFE/caffe/build/tools/compute_image_mean ./Data/train_lmdb #get the mean.binaryproto
-
 
 sudo python convert_mean.py mean.binaryproto mean.npy #get mean.npy
 
