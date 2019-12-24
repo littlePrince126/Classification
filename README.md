@@ -2,7 +2,7 @@
 # Training ResNet18 or AlexNet for classification
 By Linfeng
 
-You need <a href="https://github.com/BVLC/caffe"/a> to get caffe.
+[caffe]("https://github.com/BVLC/caffe") 
 Please build caffe
 
 ## 1.Make Dataset for classification
