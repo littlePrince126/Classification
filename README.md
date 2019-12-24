@@ -19,7 +19,7 @@ Data
 ## 2.Convert Dataset to lmdb
 
 cd Data
-python LoadAbsoluteName.py #get train.txt and val.txt
+python generate_txt.py #get train.txt and val.txt
 
 cd ..
 ./create_imagenet.sh #get lmdb Dataset
