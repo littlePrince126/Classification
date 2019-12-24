@@ -1,0 +1,4 @@
+Log file created at: 2019/12/16 16:00:58
+Running on machine: littlePrince-Ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+F1216 16:00:58.435791 18004 data_transformer.cpp:1041] Check failed: datum_height >= crop_h (224 vs. 227) 

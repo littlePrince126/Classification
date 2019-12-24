@@ -1,0 +1,4 @@
+Log file created at: 2019/12/16 16:22:24
+Running on machine: littlePrince-Ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+F1216 16:22:24.900449 22436 io.cpp:63] Check failed: fd != -1 (-1 vs. -1) File not found: /home/little_prince/SSD_disk/caffe_practise/train_alex.binaryproto
